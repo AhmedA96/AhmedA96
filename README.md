@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Ahmed — a **Backend Software Engineer** focused on building clean, scalable, and reliable backend systems and APIs.<br><br>
 
-I professional and production backend development experience**, primarily with **Ruby on Rails**, with additional professional experience in **Java/Spring Boot** and Python. I enjoy designing backend architectures, building RESTful APIs, integrating third-party services, and solving problems around reliability, performance, and data consistency.<br><br>
+I have professional backend development experience across **Java/Spring Boot** and **Ruby on Rails**, plus Python. I've built ERP-style enterprise services and RESTful APIs with Spring Boot, led a vending-machine platform backend from the ground up, and extended a large-scale Rails platform. I enjoy designing backend architectures, integrating third-party services, and solving problems around reliability, performance, and data consistency.<br><br>
 
 💡 I enjoy:<br>
 - Designing backend architectures and relational databases<br>
@@ -12,12 +12,13 @@ I professional and production backend development experience**, primarily with *
 - Building secure authentication and authorization systems<br><br>
 
 🛠️ Experience includes:<br>
+- **Java & Spring Boot** backend services and RESTful APIs for an ERP-style enterprise platform (PostgreSQL, Spring Data JPA/Hibernate)<br>
+- **Spring Security** with JWT-based authentication and role-based access control (RBAC)<br>
 - **Ruby on Rails** backend development and API-driven systems<br>
-- **Java & Spring Boot** backend services and RESTful APIs<br>
-- PostgreSQL database design and optimization<br>
+- Testing with **JUnit/Mockito** (Java) and **RSpec** (Rails), following TDD<br>
+- PostgreSQL database design and optimization for data-heavy and reporting workloads<br>
 - Payment integrations, idempotency, and automatic failover strategies<br>
-- AWS infrastructure, Terraform, Docker, Kubernetes, and CI/CD<br>
-- Authentication, authorization, JWT, and role-based access control<br><br>
+- AWS infrastructure, Terraform, Docker, Kubernetes, and CI/CD<br><br>
 
 📚 Always learning:<br>
 - System design & distributed systems<br>
@@ -35,8 +36,8 @@ If you enjoy backend engineering, clean code, and well-designed APIs, feel free 
 # 💻 Tech Stack:
 
 ### Languages
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -44,8 +45,10 @@ If you enjoy backend engineering, clean code, and well-designed APIs, feel free 
 ![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge)
 
 ### Backend & Frameworks
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
@@ -73,8 +76,12 @@ If you enjoy backend engineering, clean code, and well-designed APIs, feel free 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+### Testing
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+`Mockito` · `RSpec` · `TDD`
+
 ### Backend Concepts
-`REST APIs` · `Microservices` · `Authentication & Authorization` · `JWT` · `RBAC` · `Background Jobs` · `API Integration` · `Database Design` · `Query Optimization` · `Caching` · `Idempotency` · `Payment Systems`
+`REST APIs` · `Microservices` · `Spring Data JPA` · `Authentication & Authorization` · `JWT` · `OAuth2` · `RBAC` · `Background Jobs` · `API Integration` · `Database Design` · `Query Optimization` · `Caching` · `Idempotency` · `Payment Systems`
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AhmedA96&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
